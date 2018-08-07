@@ -17,9 +17,6 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Welcom to Bonsai Git course");
-        }
+        private void button1_Click(object sender, EventArgs e) => MessageBox.Show("Welcom to Bonsai Git course 2018");
     }
 }
